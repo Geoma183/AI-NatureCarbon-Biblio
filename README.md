@@ -49,11 +49,9 @@ This study employed the following tools:
 
 ## 🔍 Search Strategy
 
-The full search string used in the Web of Science Core Collection is provided in [`keywords_query.txt`](./keywords_query.txt). It includes terms such as:
+The full search string used in the Web of Science Core Collection is provided . It includes terms such as:
 
-> ("artificial intelligence" OR "machine learning" OR "deep learning" ...)  
-> AND ("forest carbon" OR "soil organic carbon" OR "blue carbon" ...)  
-> NOT ("CCUS" OR "CO2 capture" OR "carbon capture and storage" ...)
+TS=( ( "artificial intelligence" OR "artificial intelligent" OR "machine learning" OR "deep learning"OR "supervised learning" OR "unsupervised learning" OR "semi-supervised learning" OR "semisupervised learning" OR "reinforcement learning" OR "deep reinforcement learning" OR "transfer learning" OR "meta-learning" OR "neural network" OR "convolutional neural network" OR CNN OR "recurrent neural network" OR RNN OR "long short-term memory" OR "long short term memory" OR LSTM OR "graph neural network" OR GNN OR "generative adversarial networks" OR "autoencoder" OR "decision tree" OR "random forest" OR "gradient boosting" OR "XGBoost" OR "support vector machine" OR SVM OR "Bayesian network" OR "ensemble learning" OR "digital twin" OR "attention mechanism" OR "transformer model" OR "transformer-based model" OR "pretrained model" OR "pre-trained model" OR "pretrained language model" OR "foundation model" OR "foundation models" OR "large language model" OR "large language models" OR LLM OR LLMs OR "generative pretrained transformers" OR BERT OR "BERT-based architecture" OR RoBERTa OR GPT OR "GPT-based model" OR "GPT-3" OR "GPT-4" OR ChatGPT OR BART OR LLaMA ) AND ( "forest carbon" OR "forest carbon sequestration" OR "forest biomass" OR "soil carbon" OR "soil organic carbon" OR "soil carbon sequestration" OR "grassland carbon" OR "wetland carbon" OR "peatland carbon" OR "blue carbon" OR "mangrove carbon" OR "seagrass carbon" OR "salt marsh carbon" OR "marine carbon sink" OR "biological carbon pump" OR "phytoplankton carbon fixation" OR "carbon sequestration" OR "carbon uptake" OR "carbon flux" OR "carbon stock" OR "carbon storage" OR "biomass mapping" OR "carbon mapping" OR "carbon prediction" OR "carbon modeling" OR "net primary productivity" OR "ecosystem simulation" ) NOT ( "CCUS" OR "CCU" OR "carbon capture and storage" OR "carbon capture and utilization" OR "CO2 capture" OR "geological storage" OR "enhanced oil recovery" OR "CO2-EOR" OR "chemical looping" OR "membrane separation" OR "adsorption process" OR "cryogenic separation" OR "direct air capture" OR "CO2 mineralization" OR "CO2 conversion" OR "CO2-to-fuels" OR "CO2-to-chemicals" OR "CO2 hydrogenation" OR "CO2 electroreduction" OR "cement carbonation" OR "wellbore integrity" OR "caprock integrity" OR "reservoir simulation" OR "fluid flow modeling" OR "pipeline transport" OR "industrial carbon utilization" OR "medical imaging" OR "archaeology" OR "text mining" OR "sentiment analysis" ) )
 
 The goal was to **exclude engineered carbon capture (CCUS)** and focus solely on **natural carbon sequestration pathways**.
 
@@ -77,7 +75,7 @@ If you use this dataset or analysis framework, please cite:
 ## 📬 Contact
 
 Ph.D. Candidate, Sun Yat-sen University  
-Email: *your_email@domain.edu*  
+Email: 05161935@cumt.edu.cn
 Field: Geoscience + AI for climate and carbon research
 
 ---
