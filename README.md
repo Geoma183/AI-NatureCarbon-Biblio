@@ -2,7 +2,7 @@
 Bibliometric dataset and analysis scripts of AI applications in natural carbon sequestration research (2025)
 # AI-NatureCarbon-Biblio
 
-This repository hosts a curated bibliometric dataset and associated outputs from a study on **Artificial Intelligence (AI) applications in natural carbon sequestration research**. The dataset comprises **3886 records** retrieved from the Web of Science Core Collection as of **June 10, 2025**, and was analyzed using mainstream bibliometric tools including **Bibliometrix (R)**, **CiteSpace**, and **VOSviewer**.
+This repository hosts a curated bibliometric dataset and associated outputs from a study on **Artificial Intelligence (AI) applications in natural carbon sequestration research**. The dataset comprises **3885 records** retrieved from the Web of Science Core Collection as of **June 10, 2025**, and was analyzed using mainstream bibliometric tools including **Bibliometrix (R)**, **CiteSpace**, and **VOSviewer**.
 
 ---
 
